@@ -1,1 +1,0 @@
-to run test on MY computer, I need to use 'python -m pytest filename_of_the_tests'
