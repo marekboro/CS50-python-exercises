@@ -13,5 +13,5 @@ for i in range(1,8):
 images
 
 images[0].save(
-    "animation.gif", save_all=True, append_images=images[1:], diration=200, loop=0
+    "animation.gif", save_all=True, append_images=images[1:], duration=200, loop=0
 )
