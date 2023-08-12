@@ -1,4 +1,4 @@
-videoTime = "13:28:50"
+videoTime = "13:39:25"
 
 def convertStringTimeToSeconds(timeString):
    # h, m, s = timeString.split(':')
