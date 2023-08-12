@@ -1,0 +1,5 @@
+print(f"20 is type: {type(20)}")
+print(f"'blah' is type: {type('blah')}")
+print(f"[] is type: {type([])}")
+print(f"list() is type: {type(list())}")
+print("{}" + f" is type: {type({})}")
